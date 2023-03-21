@@ -1,0 +1,40 @@
+.best-characters {
+    padding: 70px 0;
+
+    .vertically {
+        display: flex;
+        align-items: center;
+    }
+
+    h1.header {
+        font-size: 50px;
+        color: azure;
+    }
+
+    h3.header {
+        margin-top: 25px;
+        font-size: 28px;
+        color: azure;
+    }
+
+    button.button {
+        background-color: lightblue;
+        margin: 2.5rem 0 0;
+        font-size: 20px;
+        padding: 20px;
+        line-height: 1.5rem;
+        color: azure;
+        text-transform: uppercase;
+
+        &:hover {
+            background-color: lightblue;
+            color: azure;
+            transition: background-color 0.15s ease-in-out;
+        }
+    }
+
+    .column.image-container img {
+        width: 100%;
+        height: auto;
+    }
+}
