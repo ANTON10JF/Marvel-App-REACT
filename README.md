@@ -1,3 +1,5 @@
+Aplicación creada con React JS, React Router Dom y CSS para realizar una petición una API externa de Marvel
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
